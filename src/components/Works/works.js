@@ -19,7 +19,8 @@ const Works = () => {
                 <img src={Portfolio4} alt="Portfolio-4" className="worksImg"/>
                 <img src={Portfolio5} alt="Portfolio-5" className="worksImg"/>
                 <img src={Portfolio6} alt="Portfolio-6" className="worksImg"/>
-            </div>   
+            </div> 
+              <button className="workBtn">View More</button>
         </section>
     );
 }
